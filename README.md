@@ -5,7 +5,7 @@
 
 Para ver o desenvolvimento acesse o planejamento:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elioenaiancelmo/conversor-de-moedas)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/elioenaiancelmo/gerador-de-senha)
 
 
 
